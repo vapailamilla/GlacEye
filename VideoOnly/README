@@ -1,0 +1,2 @@
+Este código genera flujo de video RTSP por el punto de acceso Wi-Fi. Es necesario escribir las credenciales en el firmwar. Se recomienda compartir internet desde un PC.
+El flujo de video se puede abrir desde el software VLC Medio -> Abrir ubicación de red... y se debe introducir la URL que imprime el microcontrolador en consola.
